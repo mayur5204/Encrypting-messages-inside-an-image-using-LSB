@@ -20,7 +20,7 @@ This project provides a graphical user interface (GUI) for encrypting and decryp
 1. **Clone the Repository**:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/mayur5204/Encrypting-messages-inside-an-image-using-LSB.git
    cd <repository-directory>
    ```
 
